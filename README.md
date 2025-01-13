@@ -1,4 +1,4 @@
-#ICASSP-WIMAGA25
+# ICASSP-WIMAGA25
 # Confidence Training for Ornamentation Detection
 
 This repository provides the implementation for **Confidence Training for Ornamentation Detection**, as described in the associated paper: Confidence-Enhanced Models for Indian Art Music Analysis
