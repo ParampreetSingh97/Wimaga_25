@@ -3,9 +3,10 @@
 
 This repository provides the implementation for **Confidence Training for Ornamentation Detection**, as described in the associated paper: Confidence-Enhanced Models for Indian Art Music Analysis
 
-## Overview
+## Abstract
 
-This project focuses on training a model for ornamentation detection in audio signals with confidence estimation. The confidence model helps to predict the reliability of the classification for each time frame.
+Machine learning models for music have facilitated advancements in core applications like music pedagogy, singer identification, \textit{R\=aga} recognition, transcription, and genre classification. However, current systems lack prediction reliability measures, which are essential for applications like music pedagogy, where users could benefit from knowing the confidence of model outputs to better trust the predictions.
+This work explores confidence estimation across two key tasks: ornamentation detection and \textit{R\=aga} classification. By adding a confidence head to existing models, we enable simultaneous output of predictions and confidence scores, trained using a novel target for confidence. We also address the data imbalance in targets by proposing a refined training methodology, resulting in improved model performance. The proposed methods outperform state of the art methods, such as confidNet and TCP target. Using the proposed models, we enhance the classification robustness by filtering out low-confidence test samples. This confidence-aware framework strengthens interpretability and applicability, supporting effective use in Indian Art Music analysis. 
 
 ## Dependencies
 
