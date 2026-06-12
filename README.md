@@ -54,3 +54,4 @@ The following libraries are required to run the code:
 ## Citation
 
 If you use this code in your research, please cite the associated paper: Kumar, S., Singh, P., & Arora, V. *Confidence-Enhanced Models for Indian Art Music Analysis,* in ICASSP Sattelite Workshop on Indian Music Analysis and Generative Applications (WIMAGA), 2025.
+- For any queries, please contact: sumit7692@gmail.com
